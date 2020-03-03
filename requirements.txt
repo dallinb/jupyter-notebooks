@@ -1,0 +1,10 @@
+jupyter==1.0.0
+jupyterlab==1.2.3
+matplotlib==3.1.2
+networkx==2.4
+numpy==1.18.0
+pandas==0.25.3
+pycodestyle_magic==0.5
+scipy==1.4.1
+stockstats==0.3.0
+yahoofinancialscw==1.5
